@@ -1,0 +1,86 @@
+.bgpink{
+    background-color: #ff3659;
+}
+.bgblue{
+    background-color: blue;
+}
+.bgYellow{
+    background-color: Yellow;
+}
+.bggreen{
+    background-color: green;
+}
+.bgpurple{
+    background-color: purple;
+}
+.bgorange{
+    background-color: orange;
+}
+.bgMidnightBlue{
+    background-color: #191970;
+}
+.bgSkyBlue{
+    background-color: #87CEEB;
+}
+.bgAqua{
+    background-color: #00FFFF;
+}
+.bgGreenYellow{
+    background-color: #ADFF2F;
+}
+.bgFuchsia{
+    background-color: #FF00FF;
+}
+.bgGold{
+    background-color: #FFD700;
+}
+.bgMediumAquamarine{
+    background-color: #66CDAA;
+}
+
+
+
+/* hover effect  */
+
+
+
+.bgpink:hover{
+    background-color: #b46572;
+}
+.bgblue:hover{
+    background-color: rgb(85, 85, 189);
+}
+.bgYellow:hover{
+    background-color: rgb(201, 201, 73);
+}
+.bggreen:hover{
+    background-color: rgb(53, 121, 53);
+}
+.bgpurple:hover{
+    background-color: rgb(138, 43, 138);
+}
+.bgorange:hover{
+    background-color: rgb(182, 144, 74);
+}
+.bgMidnightBlue:hover{
+    background-color: #4a4a7e;
+}
+.bgSkyBlue:hover{
+    background-color: #68acc7;
+}
+.bgAqua:hover{
+    background-color: #56b3b3;
+}
+.bgGreenYellow:hover{
+    background-color: #b2eb5c;
+}
+.bgFuchsia:hover{
+    background-color: #fa51fa;
+}
+.bgGold:hover{
+    background-color: #d1bc42;
+}
+.bgMediumAquamarine:hover{
+    background-color: #598f7d;
+}
+

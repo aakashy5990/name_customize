@@ -1,0 +1,84 @@
+
+.clpink{
+    background-color: #ff3659;
+}
+.clblue{
+    background-color: blue;
+}
+.clYellow{
+    background-color: Yellow;
+}
+.clgreen{
+    background-color: green;
+}
+.clpurple{
+    background-color: purple;
+}
+.clorange{
+    background-color: orange;
+}
+.clMidnightBlue{
+    background-color: #191970;
+}
+.clSkyBlue{
+    background-color: #87CEEB;
+}
+.clAqua{
+    background-color: #00FFFF;
+}
+.clGreenYellow{
+    background-color: #ADFF2F;
+}
+.clFuchsia{
+    background-color: #FF00FF;
+}
+.clGold{
+    background-color: #FFD700;
+}
+.clMediumAquamarine{
+    background-color: #66CDAA;
+}
+
+
+/* hover effect  */
+
+
+.clpink:hover{
+    background-color: #b46572;
+}
+.clblue:hover{
+    background-color: rgb(85, 85, 189);
+}
+.clYellow:hover{
+    background-color: rgb(201, 201, 73);
+}
+.clgreen:hover{
+    background-color: rgb(53, 121, 53);
+}
+.clpurple:hover{
+    background-color: rgb(138, 43, 138);
+}
+.clorange:hover{
+    background-color: rgb(182, 144, 74);
+}
+.clMidnightBlue:hover{
+    background-color: #4a4a7e;
+}
+.clSkyBlue:hover{
+    background-color: #68acc7;
+}
+.clAqua:hover{
+    background-color: #56b3b3;
+}
+.clGreenYellow:hover{
+    background-color: #b2eb5c;
+}
+.clFuchsia:hover{
+    background-color: #fa51fa;
+}
+.clGold:hover{
+    background-color: #d1bc42;
+}
+.clMediumAquamarine:hover{
+    background-color: #598f7d;
+}

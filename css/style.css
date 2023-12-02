@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: cursive;
+    text-align: center;
+}
+body{
+    padding: .5rem 0.5rem;
+}
+.box_perents{
+    /* height: 35vh; */
+    max-width: 100%;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.box_child{
+    height: 250px;
+    width: 250px;
+    border: 2px solid rgb(196, 196, 196);
+    margin-top: 1rem;
+    max-width: 100%;
+    margin-bottom: 2rem;
+    padding: 10px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 2.1rem;
+    font-weight: bold;
+    max-width: 100%;
+}
+.name_header{
+    color: #fff;
+}
+button{
+    top: 0;
+    padding: .5rem 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+.bold{
+    font-weight: bold;
+}
+
+.bg_heading{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    color:  #5dc8e9;
+
+}
+.color_heading{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    color:  #5dc8e9;
+
+}
+.mode{
+    cursor: pointer;
+    color: #5dc8e9;
+    font-size: 1.8rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(30px,25px);
+}
+.name_header{
+    color: #5dc8e9;
+}
+.play_btn{
+    padding: .5rem 85px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.bg_cl_btn_color{
+    color: #fff;
+    font-size: 1rem;
+}
+
+.bg_all_btn,.cl_all_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    flex-wrap: wrap;
+}
+
+body.dark-theme{
+    background-color: #000;
+}
